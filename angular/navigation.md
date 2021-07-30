@@ -4,9 +4,11 @@ parent: Angular
 has_children: true
 nav_order: 1
 showMiniToc: true
+miniTocMaxHeadingLevel: 3
 ---
 
 # Routing & Navigation
+
 ## Pass param in the url and hide it when page loaded
 _origin.component.ts_
 ```javascript 
