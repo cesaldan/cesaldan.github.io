@@ -5,3 +5,5 @@ title: "Notito"
 color_scheme: light
 search_enabled: true
 remote_theme: cswrk/just-the-docs
+showMiniToc: true
+miniTocMaxHeadingLevel: 2
