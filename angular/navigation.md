@@ -4,6 +4,7 @@ parent: Angular
 has_children: true
 nav_order: 1
 has_toc: false
+showMiniToc: true
 ---
 
 # Routing & Navigation
